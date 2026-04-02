@@ -2,8 +2,11 @@
 
 Last updated: April 2026
 
+
 Developer/Publisher: Nancy
+
 App Name: KidsBasics
+
 Contact: [nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
 
 ---
