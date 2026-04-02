@@ -1,5 +1,9 @@
 # kids
 
+
+https://nancyfiend070-gif.github.io/KidsBasics/privacy_policy
+
+
 A new Flutter project.
 
 ## Getting Started
