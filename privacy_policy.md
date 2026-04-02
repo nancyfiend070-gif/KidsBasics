@@ -1,10 +1,12 @@
-## Privacy Policy for KidsBasics
+# Privacy Policy for KidsBasics
 
 Last updated: April 2026
 
-Developer: Nancy  
-App: KidsBasics  
-Contact: nancyfiend070@gmail.com
+Developer: Nancy
+
+App: KidsBasics
+
+Contact: [nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
 
 ---
 
@@ -19,32 +21,39 @@ KidsBasics is a children's educational app designed to help kids learn alphabets
 We do not collect personal information such as name, email, or contact details.
 
 However, the app uses third-party services like Google AdMob which may automatically collect:
-- Device information
-- Approximate location
-- Ad interaction data
+
+* Device information
+* Approximate location
+* Ad interaction data
 
 ---
 
 ## How We Use Information
 
 The collected data is used to:
-- Display advertisements
-- Improve app performance
+
+* Display ads in a child-friendly manner
+* Improve app performance
 
 ---
 
 ## Children's Privacy
 
-This app is designed for children. We do not knowingly collect personal data.
+This app is designed for children.
 
-Ads shown are provided by third-party services and may be personalized or non-personalized.
+We do not knowingly collect personal data from children.
+
+Ads shown in the app are **non-personalized and child-friendly**.
+
+We comply with Google Play Families Policy requirements for children's apps.
 
 ---
 
 ## Third-Party Services
 
 We use:
-- Google AdMob (for ads)
+
+* Google AdMob (for child-friendly ads)
 
 These services may collect data as per their own privacy policies.
 
@@ -52,17 +61,23 @@ These services may collect data as per their own privacy policies.
 
 ## Data Safety
 
-We do not store or control user data directly. Any data collection is handled by third-party services.
+We do not store or control user data directly.
+
+Any data collection is handled securely by third-party services like Google AdMob.
 
 ---
 
 ## Changes to This Policy
 
-We may update this policy from time to time. Changes will be reflected by updating the date above.
+We may update this policy from time to time.
+
+Any changes will be reflected by updating the "Last updated" date above.
 
 ---
 
 ## Contact Us
 
-If you have any questions, contact:
-nancyfiend070@gmail.com
+If you have any questions about this Privacy Policy, please contact:
+
+[nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
+
