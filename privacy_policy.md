@@ -2,82 +2,104 @@
 
 Last updated: April 2026
 
-Developer: Nancy
-
-App: KidsBasics
-
+Developer/Publisher: Nancy
+App Name: KidsBasics
 Contact: [nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
 
 ---
 
-## Introduction
+## 1. Introduction
 
-KidsBasics is a children's educational app designed to help kids learn alphabets through interactive content.
-
----
-
-## Information We Collect
-
-We do not collect personal information such as name, email, or contact details.
-
-However, the app uses third-party services like Google AdMob which may automatically collect:
-
-* Device information
-* Approximate location
-* Ad interaction data
+KidsBasics is an educational app designed for young children to learn alphabets and basic concepts through interactive activities.
 
 ---
 
-## How We Use Information
+## 2. Information We Collect
 
-The collected data is used to:
+We do not ask children to create accounts and we do not directly collect personal information such as name, email, phone number, or home address.
 
-* Display ads in a child-friendly manner
-* Improve app performance
+The app uses third-party services that may automatically process limited technical data, such as:
 
----
-
-## Children's Privacy
-
-This app is designed for children.
-
-We do not knowingly collect personal data from children.
-
-Ads shown in the app are **non-personalized and child-friendly**.
-
-We comply with Google Play Families Policy requirements for children's apps.
+* Device and app information
+* Approximate location (inferred from IP/network)
+* Ad interaction and diagnostic/performance data
 
 ---
 
-## Third-Party Services
+## 3. How Information Is Used
 
-We use:
+This data is used to:
 
-* Google AdMob (for child-friendly ads)
-
-These services may collect data as per their own privacy policies.
-
----
-
-## Data Safety
-
-We do not store or control user data directly.
-
-Any data collection is handled securely by third-party services like Google AdMob.
+* Show ads in a child-directed, non-personalized manner
+* Support app stability, diagnostics, and performance
+* Process and restore in-app purchases through the app store (Google Play / App Store)
 
 ---
 
-## Changes to This Policy
+## 4. Ads
 
-We may update this policy from time to time.
+KidsBasics uses Google AdMob to display ads.
 
-Any changes will be reflected by updating the "Last updated" date above.
+Ads in this app are configured to be non-personalized and comply with child-directed (Designed for Families) requirements.
 
 ---
 
-## Contact Us
+## 5. In-App Purchases
 
-If you have any questions about this Privacy Policy, please contact:
+KidsBasics offers a one-time in-app purchase: “Remove Ads” (remove_ads_99).
+
+Purchase status is stored locally on the device and may be restored through the user's app store account.
+
+---
+
+## 6. Children’s Privacy
+
+KidsBasics is intended for children.
+
+We do not knowingly collect personal data directly from children.
+
+We comply with applicable child privacy requirements, including Google Play Families policies.
+
+---
+
+## 7. Third-Party Services
+
+KidsBasics uses:
+
+* Google AdMob (ads)
+* Google Play Billing / App Store (in-app purchases)
+
+These providers may process data under their own privacy policies.
+
+---
+
+## 8. Data Retention and Security
+
+We do not maintain a direct user database for children’s personal profiles.
+
+Data processed by third-party services is handled according to their own retention and security practices.
+
+---
+
+## 9. Parent/Guardian Rights
+
+If you are a parent or guardian and have privacy questions or requests (including deletion-related requests), contact us at:
+
+[nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be reflected by revising the "Last updated" date.
+
+---
+
+## 11. Contact
+
+For any privacy-related questions, contact:
 
 [nancyfiend070@gmail.com](mailto:nancyfiend070@gmail.com)
 
